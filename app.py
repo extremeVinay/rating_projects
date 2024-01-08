@@ -1,0 +1,1 @@
+from src.ratingproject.logger import logging
